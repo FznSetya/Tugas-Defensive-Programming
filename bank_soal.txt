@@ -1,0 +1,20 @@
+﻿Berapakah hasil 5 + 3?|8,7,9,6
+Andi membeli 10 bunga lalu memberikan 5 bunga kepada Yati. Berapa bunga yang tersisa pada Andi?|5,4,6,3
+Berapakah hasil 12 - 4?|8,6,7,9
+Siti memiliki 12 apel lalu membeli 8 apel lagi. Berapa jumlah apel Siti sekarang?|20,18,19,21
+Berapakah hasil 6 x 7?|42,36,48,40
+Budi mempunyai 15 kelereng dan memberikan 6 kepada temannya. Berapa kelereng Budi yang tersisa?|9,8,10,7
+Berapakah hasil 20 / 4?|5,4,6,8
+Ibu membeli 4 kantong jeruk. Setiap kantong berisi 5 jeruk. Berapa jumlah jeruk semuanya?|20,15,25,9
+Berapakah hasil 9 + 8?|17,16,18,15
+Rina membagikan 24 kue sama banyak kepada 6 anak. Berapa kue yang diterima setiap anak?|4,3,5,6
+Berapakah hasil 15 - 7?|8,7,9,6
+Di dalam bus ada 18 penumpang. Lalu 7 penumpang turun. Berapa penumpang yang masih ada di bus?|11,10,12,13
+Berapakah hasil 8 x 5?|40,35,45,30
+Ayah membeli 3 kotak pensil. Setiap kotak berisi 8 pensil. Berapa jumlah pensil semuanya?|24,21,27,18
+Berapakah hasil 36 / 6?|6,5,7,8
+Doni memiliki 30 kartu dan membaginya sama rata kepada 5 teman. Berapa kartu yang diterima setiap teman?|6,5,7,8
+Berapakah hasil 14 + 9?|23,22,24,21
+Toko memiliki 25 roti lalu menjual 9 roti. Berapa roti yang tersisa?|16,15,17,14
+Berapakah hasil 25 - 13?|12,11,13,14
+Mira membaca 7 halaman pada pagi hari dan 9 halaman pada sore hari. Berapa halaman yang dibaca Mira?|16,14,15,17
